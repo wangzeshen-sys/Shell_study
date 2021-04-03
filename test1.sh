@@ -1,1 +1,1 @@
-echo `date`ls
+echo `date`
